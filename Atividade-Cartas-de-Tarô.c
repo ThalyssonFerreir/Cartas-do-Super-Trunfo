@@ -14,7 +14,6 @@ int main() {
 
     if (escolha == 2){
         printf("Ah, tudo bem então.....adeus....usuário");
-        return 0;
     }
 
     char sigla1;
